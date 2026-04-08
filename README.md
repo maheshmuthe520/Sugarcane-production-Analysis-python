@@ -1,9 +1,9 @@
 # Sugarcane Production Analysis using Python
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes sugarcane production data using Python to identify trends, patterns, and insights from the dataset.
 
-## 🛠 Tools & Libraries Used
+##  Tools & Libraries Used
 - Python
 - Pandas
 - NumPy
@@ -11,7 +11,7 @@ This project analyzes sugarcane production data using Python to identify trends,
 - Seaborn
 - Google Colab / Jupyter Notebook
 
-## 📊 Analysis Performed
+##  Analysis Performed
 - Data Loading
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -19,17 +19,17 @@ This project analyzes sugarcane production data using Python to identify trends,
 - Continent-wise Sugarcane Production Analysis
 - Data Visualization using Charts
 
-## 📁 Files Included
+##  Files Included
 - `Sugarcane_Production_Analysis.ipynb` → Main project notebook
 
-## 🎯 Key Insights
+##  Key Insights
 - Identified top sugarcane-producing countries
 - Compared sugarcane production across continents
 - Visualized production trends using charts and graphs
 
-## ✅ Conclusion
+##  Conclusion
 This project demonstrates practical data analysis and visualization skills using Python on an agricultural dataset.
 
 ---
-### 👨‍💻 Created by Mahesh Muthe  
+###  Created by Mahesh Muthe  
 **Aspiring Data Analyst**
